@@ -1,7 +1,8 @@
 # Transformers
 Transformers Program
 
-### User can input transformers in the format {Name},{A/D},{Strength(int)},{Intelligence(int)},{speed(int)},{Endurance(int)},{Rank(int)},{Courage(int)},{Firepower(int)}, {Skill(int)}
+### User can input transformers in the format 
+#### {Name},{A/D},{Strength(int)},{Intelligence(int)},{speed(int)},{Endurance(int)},{Rank(int)},{Courage(int)},{Firepower(int)}, {Skill(int)}
 ### To start the game type 'start'
 
 ### Assumptions
